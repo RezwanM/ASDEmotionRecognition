@@ -268,7 +268,7 @@ model.compile(optimizer=adam_optimizer,
                     loss='kullback_leibler_divergence')
                             
 # Train the RNN
-history = model.fit(X_train_3D_posed, y_train_onehot, batch_size=16, epochs=250, verbose=1, validation_split=0.1) # 90% training / 10% validation
+history = model.fit(X_train_3D_posed, y_train_onehot, batch_size=16, epochs=200, verbose=1, validation_split=0.1) # 90% training / 10% validation
 
 y_train_pred = model.predict_classes(X_train_3D_posed, verbose=0)
 correct_preds = np.sum(y_train == y_train_pred, axis=0)
