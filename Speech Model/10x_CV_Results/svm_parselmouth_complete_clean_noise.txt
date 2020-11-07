@@ -1,0 +1,64 @@
+[2. 2. 2. ... 6. 6. 6.]
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1098
+Training Accuracy: 0.68
+Validation Accuracy: 0.58
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1104
+Training Accuracy: 0.68
+Validation Accuracy: 0.58
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1045
+Training Accuracy: 0.68
+Validation Accuracy: 0.60
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1057
+Training Accuracy: 0.68
+Validation Accuracy: 0.59
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1102
+Training Accuracy: 0.68
+Validation Accuracy: 0.58
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1109
+Training Accuracy: 0.68
+Validation Accuracy: 0.57
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1085
+Training Accuracy: 0.68
+Validation Accuracy: 0.58
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1031
+Training Accuracy: 0.68
+Validation Accuracy: 0.60
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1060
+Training Accuracy: 0.68
+Validation Accuracy: 0.59
+(20868, 36) (20868,)
+(2607, 36) (2607,)
+(2607, 36) (2607,)
+Misclassified validation samples: 1036
+Training Accuracy: 0.68
+Validation Accuracy: 0.60
+Average Training Accuracy: 68.08%
+Average Validation Accuracy: 58.85%
+Time taken to execute code: 707.6586099257693econds
