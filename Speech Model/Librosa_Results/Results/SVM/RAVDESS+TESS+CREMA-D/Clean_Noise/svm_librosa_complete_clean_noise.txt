@@ -1,0 +1,12 @@
+[2. 2. 2. ... 6. 6. 6.]
+(20868, 62) (20868,)
+(2607, 62) (2607,)
+(2607, 62) (2607,)
+Misclassified validation samples: 906
+Misclassified test samples: 884
+Training Accuracy: 0.75
+Validation Accuracy: 0.65
+Test Accuracy: 0.66
+Precision:  0.6638691674922966
+Recall:  0.6609129267357116
+Time taken to execute code: 2555.0408902717754econds

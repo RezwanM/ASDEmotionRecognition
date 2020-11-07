@@ -1,0 +1,21 @@
+7.0    800
+1.0    800
+4.0    800
+5.0    800
+6.0    800
+2.0    800
+3.0    800
+Name: Emotion, dtype: int64
+[3. 2. 3. ... 6. 1. 2.]
+(5040, 62) (5040,)
+(4480, 62) (4480,)
+(560, 62) (560,)
+(560, 62) (560,)
+Misclassified validation samples: 8
+Misclassified test samples: 13
+Training Accuracy: 0.99
+Validation Accuracy: 0.99
+Test Accuracy: 0.98
+Precision:  0.9770674302332736
+Recall:  0.9767857142857143
+Time taken to execute code: 42.61377187632024econds
