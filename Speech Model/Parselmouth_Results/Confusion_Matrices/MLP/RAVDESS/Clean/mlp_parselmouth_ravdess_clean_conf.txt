@@ -1,0 +1,16 @@
+[2. 2. 2. ... 7. 7. 7.]
+(1076, 36) (1076,)
+(134, 36) (134,)
+(134, 36) (134,)
+Train on 1076 samples, validate on 134 samples
+1076/1076 - 3s - loss: 1.7475 - categorical_accuracy: 0.3299 - val_loss: 1.4578 - val_categorical_accuracy: 0.4552
+134/134 - 0s
+Confusion matrix, without normalization
+[[17  2  0  0  0  0  0]
+ [ 7  4  1  0  6  0  1]
+ [ 9  2  0  1  5  2  0]
+ [ 2  4  0  5  7  1  0]
+ [ 0  1  0  0 17  0  1]
+ [ 3  5  0  1  2  5  4]
+ [ 1  2  0  1  2  0 13]]
+Time taken to execute code: 4.000202381052077econds

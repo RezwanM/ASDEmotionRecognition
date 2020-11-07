@@ -1,0 +1,16 @@
+[2. 2. 2. ... 6. 6. 6.]
+(10435, 36) (10435,)
+(1303, 36) (1303,)
+(1303, 36) (1303,)
+Train on 10435 samples, validate on 1303 samples
+10435/10435 - 1s - loss: 1.3087 - categorical_accuracy: 0.4875 - val_loss: 1.1185 - val_categorical_accuracy: 0.5625
+1303/1303 - 0s
+Confusion matrix, without normalization
+[[118  10  44   0   6   8   0]
+ [ 26  74  13  25  28  10  30]
+ [ 29  11 122   1   6   8   9]
+ [ 15  23   2 114  11  11  10]
+ [ 14  16  42  18  86   3   7]
+ [ 45  21  35  13   4  41   8]
+ [  0   0   0   4   0   3 179]]
+Time taken to execute code: 1.8040407504886389econds

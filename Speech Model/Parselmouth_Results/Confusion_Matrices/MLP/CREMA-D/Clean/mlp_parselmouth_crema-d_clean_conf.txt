@@ -1,0 +1,15 @@
+[2. 2. 2. ... 6. 6. 6.]
+(6102, 36) (6102,)
+(762, 36) (762,)
+(762, 36) (762,)
+Train on 6102 samples, validate on 762 samples
+6102/6102 - 3s - loss: 1.4614 - categorical_accuracy: 0.4049 - val_loss: 1.3207 - val_categorical_accuracy: 0.4777
+762/762 - 0s
+Confusion matrix, without normalization
+[[ 85   9  21   3   1   8]
+ [ 15  28   4  44  25  11]
+ [ 26   2  77   3  12   7]
+ [  4   7   1 107   4   4]
+ [ 14  12  33  18  40  10]
+ [ 33  11  32  17   8  26]]
+Time taken to execute code: 4.5674859136343econds
