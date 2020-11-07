@@ -1,0 +1,24 @@
+7.0    800
+1.0    800
+4.0    800
+5.0    800
+6.0    800
+2.0    800
+3.0    800
+Name: Emotion, dtype: int64
+[3. 2. 3. ... 6. 1. 2.]
+(4480, 62) (4480,)
+(560, 62) (560,)
+(560, 62) (560,)
+Train on 4480 samples, validate on 560 samples
+4480/4480 - 1s - loss: 0.5653 - categorical_accuracy: 0.7993 - val_loss: 0.1970 - val_categorical_accuracy: 0.9411
+560/560 - 0s
+Confusion matrix, without normalization
+[[80  0  0  0  0  0  0]
+ [ 0 72  0  2  1  0  5]
+ [ 1  3 73  0  0  3  0]
+ [ 0  1  0 78  1  0  0]
+ [ 0  0  0  2 78  0  0]
+ [ 0  0  0  1  0 74  5]
+ [ 0 12  0  0  0  4 64]]
+Time taken to execute code: 1.5661092950031161econds

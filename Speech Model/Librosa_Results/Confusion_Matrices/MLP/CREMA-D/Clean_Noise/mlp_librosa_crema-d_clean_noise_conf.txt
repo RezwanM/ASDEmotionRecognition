@@ -1,0 +1,15 @@
+[2. 2. 2. ... 6. 6. 6.]
+(12202, 62) (12202,)
+(1525, 62) (1525,)
+(1525, 62) (1525,)
+Train on 12202 samples, validate on 1525 samples
+12202/12202 - 1s - loss: 1.5049 - categorical_accuracy: 0.3789 - val_loss: 1.3731 - val_categorical_accuracy: 0.4315
+1525/1525 - 0s
+Confusion matrix, without normalization
+[[158  17  34   3   4  38]
+ [ 58  80   5  82   2  27]
+ [ 54   7 122   0  15  56]
+ [ 18  20   3 199   1  13]
+ [ 54  31  63  59  20  27]
+ [ 80  33  24  35   7  76]]
+Time taken to execute code: 2.0974161168560386econds

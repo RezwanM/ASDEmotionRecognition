@@ -1,0 +1,16 @@
+[2. 2. 2. ... 6. 6. 6.]
+(20868, 62) (20868,)
+(2607, 62) (2607,)
+(2607, 62) (2607,)
+Train on 20868 samples, validate on 2607 samples
+20868/20868 - 2s - loss: 1.3444 - categorical_accuracy: 0.4702 - val_loss: 1.1454 - val_categorical_accuracy: 0.5550
+2607/2607 - 0s
+Confusion matrix, without normalization
+[[203  39  52  11  17  43   7]
+ [ 23 110  21 102  20  44  52]
+ [ 54  10 263   5  12  15  14]
+ [ 17  31   2 288   3  19  12]
+ [ 46  45  74  56 119  14  19]
+ [ 62  32  55  53   6 137  28]
+ [  9   1   3  10   3   5 341]]
+Time taken to execute code: 3.0314233265817165econds
