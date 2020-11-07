@@ -1,0 +1,12 @@
+[2. 2. 2. ... 6. 6. 6.]
+(10435, 36) (10435,)
+(1303, 36) (1303,)
+(1303, 36) (1303,)
+Misclassified validation samples: 486
+Misclassified test samples: 453
+Training Accuracy: 0.76
+Validation Accuracy: 0.63
+Test Accuracy: 0.65
+Precision:  0.6590097801404781
+Recall:  0.6523407521105142
+Time taken to execute code: 459.82818129844964econds

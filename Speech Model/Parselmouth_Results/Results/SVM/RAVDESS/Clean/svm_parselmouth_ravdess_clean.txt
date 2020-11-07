@@ -1,0 +1,12 @@
+[2. 2. 2. ... 7. 7. 7.]
+(1076, 36) (1076,)
+(134, 36) (134,)
+(134, 36) (134,)
+Misclassified validation samples: 45
+Misclassified test samples: 58
+Training Accuracy: 0.90
+Validation Accuracy: 0.66
+Test Accuracy: 0.57
+Precision:  0.5765280739161336
+Recall:  0.5671641791044776
+Time taken to execute code: 7.400721068494022econds

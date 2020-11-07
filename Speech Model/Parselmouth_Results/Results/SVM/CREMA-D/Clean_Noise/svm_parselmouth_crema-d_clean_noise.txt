@@ -1,0 +1,12 @@
+[2. 2. 2. ... 6. 6. 6.]
+(12202, 36) (12202,)
+(1525, 36) (1525,)
+(1525, 36) (1525,)
+Misclassified validation samples: 755
+Misclassified test samples: 768
+Training Accuracy: 0.61
+Validation Accuracy: 0.50
+Test Accuracy: 0.50
+Precision:  0.49379033649733284
+Recall:  0.4963934426229508
+Time taken to execute code: 868.6158861191943econds
