@@ -18,7 +18,7 @@
 
 "RNN" directory contains all experiment files involving the RNN classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
 
-"Noise" directory contains the noise samples (audio files) selected for the noise addition part and also the MATLAB files that were used for the experiments involving noise addition. Three noise samples (Mall, Playground, and Sreets) were added to clean speech files using three SNR values (0 dB, 5 dB, and 10 dB).
+"Noise" directory contains the noise samples (audio files) selected for the noise addition part and also the MATLAB files that were used for the experiments involving noise addition. Three noise samples (Mall, Playground, and Sreets) were added to clean speech files from all three datasets (RAVDESS, TESS, and CREMA-D) using three SNR values (0 dB, 5 dB, and 10 dB).
 
 
 
