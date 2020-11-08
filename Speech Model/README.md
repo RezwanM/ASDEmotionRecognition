@@ -1,6 +1,8 @@
 # Content Description
 
-**"Notes"** directory contains personal notes of the author. Topics include ML terminologies, Python syntaxes, audio signal processing terminologies, and details of dataseta.
+**"Notes"** directory contains personal notes of the author. Topics include ML terminologies, Python syntaxes, audio signal processing terminologies, and details of datasets.
+
+**"Experiment List"** datasheet conatins list of all experiments carried out during initial hyperparameter tuning.
 
 **"SVM"** directory contains all experiment files involving the SVM classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
 
