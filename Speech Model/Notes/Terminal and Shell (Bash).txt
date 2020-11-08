@@ -1,0 +1,6 @@
+A terminal is an interface between a human and a computer, like GUI.
+A shell is a program that converts human commands into something the OS will understand.
+Bash is a command language.
+
+
+Interpreter: a program that translates code of a specific language (e.g. C, Python, etc.) into machine code.

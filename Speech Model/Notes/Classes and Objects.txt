@@ -1,0 +1,6 @@
+1. Classes: It is like a template/blueprint that groups similar methods or attributes.
+2. Methods: Functions
+3. Attributes: Variables, methods, etc. Anything that is inside the Class.
+4. Objects: Variable that is assigned the value of Class, so that they can be used to call methods/attributes from that Class.
+
+Objects and Classes work together!

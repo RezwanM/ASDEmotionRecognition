@@ -1,0 +1,13 @@
+In ML, the output y is related to coefficient, wx, and bias, b, as
+
+y = wx + b 
+
+Here, x is a feature, and multiplying it with a weight w gives us a "coefficient". Weight w and bias b are called "parameters".
+
+In a ML model, during training, not all features contribute equally. We want to minimize the weights of the features
+that have lower contributions to the learning process and prioritize features that contribute more.
+
+This is why we use regularization.
+
+L1 regularization drives the weights to zero.
+L2 regularization drives the weights close to zero.
