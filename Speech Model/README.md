@@ -8,6 +8,7 @@
 
 "Librosa_Results" directory contains all experiment files for the Custom feature set and all three classifiers (SVM, MLP, and RNN). This directory has two sub-directories. The "Confusion_Matrices" sub-directory contains experiment files for plotting the confusion matrices, and the "Results" sub-directory contains experiment files for printing the performance metrics.
 
+"Parselmouth_Results" directory contains all experiment files for the Partial GeMAPS feature set and all three classifiers (SVM, MLP, and RNN). This directory has two sub-directories. The "Confusion_Matrices" sub-directory contains experiment files for plotting the confusion matrices, and the "Results" sub-directory contains experiment files for printing the performance metrics.
 
 
 
