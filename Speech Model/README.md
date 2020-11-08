@@ -1,4 +1,4 @@
-# Description of Content
+# Content Description
 
 **"Notes"** directory contains personal notes of the author. Topics include ML terminologies, Python syntaxes, audio signal processing terminologies, and details of dataseta.
 
