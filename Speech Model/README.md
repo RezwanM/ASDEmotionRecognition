@@ -1,8 +1,8 @@
 # Description
 
-"SVM" directory contains all experiment files involving the SVM classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
+**"SVM"** directory contains all experiment files involving the SVM classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
 
-"MLP" directory contains all experiment files involving the MLP classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
+**"MLP"** directory contains all experiment files involving the MLP classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
 
 "RNN" directory contains all experiment files involving the RNN classifier and the individual datasets (RAVDESS, TESS, and CREMA-D). These are mainly Jupyter Notebook files from the inital work.
 
