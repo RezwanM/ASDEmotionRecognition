@@ -1,2 +1,6 @@
 # ASDEmotionRecognition
-Rezwan's Master's Thesis Files
+Rezwan's Speech Emotion Recognition System
+
+All rights reserved.
+
+
